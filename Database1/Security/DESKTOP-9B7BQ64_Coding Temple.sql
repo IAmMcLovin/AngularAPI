@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [DESKTOP-9B7BQ64\Coding Temple]
+    FROM WINDOWS;
+

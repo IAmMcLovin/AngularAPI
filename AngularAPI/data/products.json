@@ -1,0 +1,54 @@
+[
+
+	{
+		"name": "Wilson Football",
+		"price": 15.00,
+		"description": "Best football known to man!",
+		"canPurchase": true,
+		"soldOut": false,
+		"images": [{
+			"full": "image/football.jpg"
+		}],
+
+		"reviews": [
+
+			{
+				"stars": 5,
+				"body": "I love this Product!",
+				"author": "joe@thomas.com"
+			}, {
+				"stars": 1,
+				"body": "This product sucks",
+				"author": "time@hater.com"
+			}
+
+		]
+
+
+
+
+	}, {
+
+		"name": "Spalding Football",
+		"price": 20.00,
+		"description": "This is mostly approved by NFL players!",
+		"Specifications": "Hello",
+		"canPurchase": true,
+		"soldOut": false,
+		"images": [{
+			"full": "image/spalding.jpg"
+		}],
+		"reviews": [
+
+			{
+				"stars": 5,
+				"body": "i hate it",
+				"author": "mother@yahoo.com"
+			}, {
+				"stars": 1,
+				"body": "this product blows",
+				"author": "father@yahoo.com"
+			}
+		]
+	}
+]
